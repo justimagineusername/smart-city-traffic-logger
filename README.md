@@ -30,5 +30,5 @@ Built with Node.js, Express, and PostgreSQL using an MVX (Model-View-Anything) a
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/smart-city-traffic-logger.git
+   git clone https://github.com/justimagineusername/smart-city-traffic-logger.git
    cd smart-city-traffic-logger
